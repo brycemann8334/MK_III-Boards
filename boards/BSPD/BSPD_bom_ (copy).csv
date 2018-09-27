@@ -1,0 +1,40 @@
+Component,Description,Part,References,Quantity Per PCB,MPN
+1,Cap 50V 0.1uF 10% 0805,C_0.1uF,C2 C3 C8 C9,4,478-3352-1-ND
+2,CAP CER 10UF 10V X5R 0805,C_10uF,C5,1,478-5167-1-ND
+3,CAP CER 1UF 25V X7R 0805,C_1uF,C6 C7,2,478-10487-1-ND
+4,Unpolarized capacitor,C_22uF,C1,1,1276-2725-1-ND
+5,CAP CER 47UF 6.3V X5R 0805,C_47uF,C4,1,587-4280-1-ND
+6,DIODE SCHOTTKY 100V 1A SOD123,D_Schottky_SOD123,D6,1,1727-2394-1-ND
+7,DIODE ZENER 18V 5W DO214AA,D_Zener_18V,D1,1,SMBJ5355B-TPMSCT-ND
+8,LED_0805,LED_0805,D2 D3 D4 D5,4,475-1410-1-ND
+9,PTC Fuse 16V 500mA,F_500mA_16V,F1,1,507-1786-1-ND
+10,connector micromatch female RA 20,micromatch_female_RA_20,J1,1,A99490CT-ND
+11,g5q power relay,G5Q-1A4-DC5-5V,K1,1,Z3632-ND
+12,Inductor 4.7uH 4.4A,L_4.7uH,L1,1,445-6583-1-ND
+13,"60V Vds, 0.115A Id, N-channel MOSFET, SOT-23",SSM3K333R,Q1 Q2,2,SSM3K333RLFCT-ND
+14,Res 0 2512 3W Jumper,R_0_Jumper,R9,1,A121322CT-ND
+15,Res 100k 1%,R_100k,R3 R4 R8,3,311-100KCRCT-ND
+16,Res 10k 1%,R_10k,R2 R5 R6 R13 R14 R15 R17,7,CRS0805-FX-1002ELFCT-ND
+17,Res 1k 1%,R_1k,R1,1,RNCP0805FTD1K00CT-ND
+18,Res 200 5%,R_200,R10 R11 R16,3,RMCF0805JT200RCT-ND
+19,Res 55.1k 1%,R_55.1k,R7,1,311-51.1KCRCT-ND
+20,Resistor,R_71.5k,R12,1,RC0805FR-0771K5L
+21,Op Amp in 5-pin package,MCP6001,U3,1,MCP6001T-I/OT
+22,Single 2-Input Positive NOR-Gate,SN74LVC1G02,U4 U5,2,SN74LVC1G02DBVR
+23,Single 2-Input Positive-AND Gate,SN74LVC1G08,U2,1,SN74LVC1G08DBVR
+24,4.5V - 17V Input 1A Synchronous Buck Converter,TPS561201,U1,1,TPS561201
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Component Groups:,24,,,,
+Component Count:,43,,,,
+Fitted Components:,43,,,,
+Number of PCBs:,1,,,,
+Total components:,43,,,,
+Schematic Version:,,,,,
+Schematic Date:,,,,,
+BoM Date:,Mon 05 Feb 2018 09:23:43 PM EST,,,,
+Schematic Source:,/home/bryce/Desktop/Formula/MK_III-Boards/boards/BSPD/BSPD.sch,,,,
+KiCad Version:,Eeschema 4.0.2+dfsg1-stable,,,,
